@@ -141,6 +141,7 @@
   },
   // golang.go
   "go.autocompleteUnimportedPackages": true,
+  "go.formatTool": "goimports",
   // streetsidesoftware.code-spell-checker
   "cSpell.userWords": [
     "Prepend",
@@ -157,12 +158,5 @@
   "markdown-preview-enhanced.breakOnSingleNewLine": false,
   "markdown-preview-enhanced.codeBlockTheme": "monokai.css",
   "markdown-preview-enhanced.imageFolderPath": "assets",
-  "markdown-preview-enhanced.previewTheme": "one-light.css",
-  // shan.code-settings-sync
-  "sync.autoUpload": true,
-  "sync.autoDownload": true,
-  "sync.quietSync": true,
-  "sync.removeExtensions": false,
-  "sync.gist": "f15fb5d85237f132dbedf784aae45dbc",
-  "go.formatTool": "goimports"
+  "markdown-preview-enhanced.previewTheme": "one-light.css"
 }
