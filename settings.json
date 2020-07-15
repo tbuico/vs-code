@@ -158,5 +158,9 @@
   "markdown-preview-enhanced.breakOnSingleNewLine": false,
   "markdown-preview-enhanced.codeBlockTheme": "monokai.css",
   "markdown-preview-enhanced.imageFolderPath": "assets",
-  "markdown-preview-enhanced.previewTheme": "one-light.css"
+  "markdown-preview-enhanced.previewTheme": "one-light.css",
+  "update.mode": "start",
+  "update.showReleaseNotes": false,
+  "telemetry.enableCrashReporter": false,
+  "telemetry.enableTelemetry": false
 }
