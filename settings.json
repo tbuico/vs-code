@@ -1,6 +1,8 @@
 {
   // Autostart
-  "launch": {},
+  "launch": {
+  
+  },
   // General Settings
   "workbench.startupEditor": "newUntitledFile",
   "files.eol": "\n",
@@ -141,10 +143,13 @@
   },
   // golang.go
   "go.autocompleteUnimportedPackages": true,
-  "go.formatTool": "goimports",
+  "go.useLanguageServer": true
+  // ms-python.vscode-pylance
+  "python.languageServer": "Pylance",
   // streetsidesoftware.code-spell-checker
   "cSpell.userWords": [
     "Prepend",
+    "backticks",
     "dotnetcore",
     "namespacing",
     "preconfigured",
@@ -162,5 +167,8 @@
   "update.mode": "start",
   "update.showReleaseNotes": false,
   "telemetry.enableCrashReporter": false,
-  "telemetry.enableTelemetry": false
+  "telemetry.enableTelemetry": false,
+  "todo-tree.tree.showScanModeButton": false,
+  "extensions.ignoreRecommendations": true,
+  "gitlens.codeLens.enabled": false,
 }
