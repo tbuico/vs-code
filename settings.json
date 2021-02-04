@@ -148,11 +148,12 @@
   "python.languageServer": "Pylance",
   // streetsidesoftware.code-spell-checker
   "cSpell.userWords": [
-    "Prepend",
     "backticks",
+    "bools",
     "dotnetcore",
     "namespacing",
     "preconfigured",
+    "Prepend",
     "repos"
   ],
   "cSpell.enableFiletypes": [
